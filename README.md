@@ -5,7 +5,7 @@ Create a simple calendar application that allows the user to save events for eac
 ## Links
 
 Repo - https://github.com/pramukam/Third-Party-APIs-Work-Day-Schedule
-Github Page - 
+Github Page - https://pramukam.github.io/Third-Party-APIs-Work-Day-Schedule/
 
 ## Project Criteria
 
@@ -24,6 +24,8 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+
+## Screenshots
 
 The following screenshot demonstrates the application functionality:
 
