@@ -2,17 +2,12 @@
 
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+## Links
 
-## User Story
+Repo - https://github.com/pramukam/Third-Party-APIs-Work-Day-Schedule
+Github Page - 
 
-```
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
-```
-
-## Acceptance Criteria
+## Project Criteria
 
 ```
 GIVEN I am using a daily planner to create a schedule
@@ -30,17 +25,9 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
+The following screenshot demonstrates the application functionality:
 
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
+![day planner demo](https://github.com/pramukam/Third-Party-APIs-Work-Day-Schedule/blob/master/ScreenShots/Screen%20Shot%202020-12-14%20at%2012.48.47%20pm.png)
 
-## Review
 
-You are required to submit the following for review:
 
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
